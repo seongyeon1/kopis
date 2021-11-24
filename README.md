@@ -14,6 +14,7 @@ KOPIS 문화공연데이터 분석
 현재는 데이터가 많이 부족하나, 공공데이터포털의 ‘적절하다고 생각하는 한달 여가 비용’ 이라는 데이터에서 성별, 연령별, 지역별 항목을 추출하여 비교해 현황을 분석해 보았다. 실제 예매 자료도 함께 파악해보고자 하였으나 자료가 부족하여 인터파크의 예매 통계분석 자료를 참고하였다.
  
 성별/연령별 분석
+
 ![image](https://user-images.githubusercontent.com/83098550/143206719-08dcc02b-5eaa-45e5-aaac-0a9d31cc9ba1.png)
 ![image](https://user-images.githubusercontent.com/83098550/143206922-13037e65-167f-4015-bb91-e704b2f1cd1f.png)
 
